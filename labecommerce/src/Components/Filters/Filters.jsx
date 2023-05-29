@@ -49,7 +49,7 @@ function Filters({
         onChange={handleMaxFilter}
         value={maxFilter}
       ></input>
-      <label id="busca">Busca por nome:</label>
+      <label id="busca">Busca por Nome:</label>
       <input
         type="text"
         id="busca"
